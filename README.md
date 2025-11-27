@@ -14,7 +14,7 @@ A PHP console application featuring five mini-games. In each game, the player mu
 ### Setup
 
 ```bash
-git clone https://github.com/maxheong54/php-project-45.git
+git clone https://github.com/maxheong54/brain-games.git
 cd php-project-45
 make install
 make start
